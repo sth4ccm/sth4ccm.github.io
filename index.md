@@ -1,4 +1,4 @@
-# Appendix: Formalization and Proofs
+# Compositional Constructive Metamorphism for Testing Constraint Checking Implementations (Appendix)
 
 This page contains the detailed mathematical proofs for the paper:  
 *"Compositional Constructive Metamorphism for Testing Constraint Checking Implementations"*
