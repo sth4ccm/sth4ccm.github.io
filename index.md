@@ -1,16 +1,15 @@
-# CCM
+# Appendix: Formalization and Proofs
 
 This page contains the detailed mathematical proofs for the paper:  
-*"XXX"*
+*"Compositional Constructive Metamorphism for Testing Constraint Checking Implementations"*
 
-## Appendix: Proofs
 You can view or download the full proofs here:
 
-* [Proofs](./CCM_proof.pdf)
+* [Formalization and Proofs](./CCM_proof.pdf)
 
 ---
 
-### Online Preview
+## Online Preview
 (Note: If the PDF does not display below, please use the download link above.)
 
 <iframe src="./CCM_proof.pdf" width="100%" height="800px">
