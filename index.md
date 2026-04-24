@@ -1,6 +1,6 @@
 # Compositional Constructive Metamorphism for Testing Constraint Checking Implementations (Appendix)
 
-This page contains the detailed mathematical proofs for the paper:  
+This page contains the detailed formalization and proofs for the paper:  
 *"Compositional Constructive Metamorphism for Testing Constraint Checking Implementations"*
 
 You can view or download the full proofs here:
