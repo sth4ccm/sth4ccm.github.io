@@ -1,11 +1,15 @@
 # Compositional Constructive Metamorphism for Testing Constraint Checking Implementations (Appendix)
 
-This page contains the detailed formalization and proofs for the paper:  
+This page contains supplementry files for the paper:  
 *"Compositional Constructive Metamorphism for Testing Constraint Checking Implementations"*
 
 You can view or download the full proofs here:
 
 * [Formalization and Proofs](./CCM_proof.pdf)
+
+You can download the replication pack here:
+
+* [Download replication pack of CCM](https://github.com/sth4ccm/sth4ccm.github.io/releases/download/replication/CCM_pack.zip)
 
 ---
 
