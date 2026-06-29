@@ -7,9 +7,9 @@ You can view or download the full proofs here:
 
 * [Formalization and Proofs](./CCM_proof.pdf)
 
-You can download the replication pack here:
+You can download the replication package here:
 
-* [Download replication pack of CCM](https://github.com/sth4ccm/sth4ccm.github.io/releases/download/replication/CCM_pack.zip)
+* [Download replication package of CCM](https://github.com/sth4ccm/sth4ccm.github.io/releases/download/replication2/CCM_pack.zip)
 
 ---
 
