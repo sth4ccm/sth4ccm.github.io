@@ -9,7 +9,7 @@ You can view or download the full proofs here:
 
 You can download the replication package here:
 
-* [Download replication package of CCM](https://github.com/sth4ccm/sth4ccm.github.io/releases/download/replication2/CCM_pack.zip)
+* [Download the replication package for CCM](https://github.com/sth4ccm/sth4ccm.github.io/releases/download/replication2/CCM_pack.zip)
 
 ---
 
